@@ -1,0 +1,3408 @@
+{
+    "Results": [{
+            "Alternatives": [{
+                "Transcript": "Yes, please.",
+                "Confidence": 0.8942299,
+                "Words": [{
+                        "StartTime": "5.100s",
+                        "EndTime": "6.800s",
+                        "word": "Yes,"
+                    },
+                    {
+                        "StartTime": "6.800s",
+                        "EndTime": "7.100s",
+                        "word": "please."
+                    }
+                ]
+            }]
+        },
+        {
+            "Alternatives": [{
+                "Transcript": " Okay.",
+                "Confidence": 0.8904232,
+                "Words": [{
+                    "StartTime": "8.200s",
+                    "EndTime": "8.700s",
+                    "word": "Okay."
+                }]
+            }]
+        },
+        {
+            "Alternatives": [{
+                "Transcript": " Okay, I can see that you're good to go man. Give me a brain dump.",
+                "Confidence": 0.919281662,
+                "Words": [{
+                        "StartTime": "14s",
+                        "EndTime": "14.600s",
+                        "word": "Okay,"
+                    },
+                    {
+                        "StartTime": "14.600s",
+                        "EndTime": "15.700s",
+                        "word": "I"
+                    },
+                    {
+                        "StartTime": "15.700s",
+                        "EndTime": "16s",
+                        "word": "can"
+                    },
+                    {
+                        "StartTime": "16s",
+                        "EndTime": "16.100s",
+                        "word": "see"
+                    },
+                    {
+                        "StartTime": "16.100s",
+                        "EndTime": "16.200s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "16.200s",
+                        "EndTime": "17.600s",
+                        "word": "you're"
+                    },
+                    {
+                        "StartTime": "17.600s",
+                        "EndTime": "17.900s",
+                        "word": "good"
+                    },
+                    {
+                        "StartTime": "17.900s",
+                        "EndTime": "18s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "18s",
+                        "EndTime": "18s",
+                        "word": "go"
+                    },
+                    {
+                        "StartTime": "18s",
+                        "EndTime": "18.400s",
+                        "word": "man."
+                    },
+                    {
+                        "StartTime": "18.400s",
+                        "EndTime": "19.300s",
+                        "word": "Give"
+                    },
+                    {
+                        "StartTime": "19.300s",
+                        "EndTime": "19.300s",
+                        "word": "me"
+                    },
+                    {
+                        "StartTime": "19.300s",
+                        "EndTime": "19.500s",
+                        "word": "a"
+                    },
+                    {
+                        "StartTime": "19.500s",
+                        "EndTime": "19.800s",
+                        "word": "brain"
+                    },
+                    {
+                        "StartTime": "19.800s",
+                        "EndTime": "20s",
+                        "word": "dump."
+                    }
+                ]
+            }]
+        },
+        {
+            "Alternatives": [{
+                "Transcript": " Okay. So for the beer, we one of the things that we came to understand was that the we wanted to use bigger numbers versus being super specific. Right? So one of the things that we would like to do is focus on making sure that we have the right the basic question would probably be if we're building a classified space.",
+                "Confidence": 0.9474263,
+                "Words": [{
+                        "StartTime": "21s",
+                        "EndTime": "21.600s",
+                        "word": "Okay."
+                    },
+                    {
+                        "StartTime": "21.600s",
+                        "EndTime": "22.200s",
+                        "word": "So"
+                    },
+                    {
+                        "StartTime": "22.200s",
+                        "EndTime": "22.600s",
+                        "word": "for"
+                    },
+                    {
+                        "StartTime": "22.600s",
+                        "EndTime": "22.700s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "22.700s",
+                        "EndTime": "23s",
+                        "word": "beer,"
+                    },
+                    {
+                        "StartTime": "23s",
+                        "EndTime": "23.200s",
+                        "word": "we"
+                    },
+                    {
+                        "StartTime": "23.200s",
+                        "EndTime": "23.400s",
+                        "word": "one"
+                    },
+                    {
+                        "StartTime": "23.400s",
+                        "EndTime": "23.500s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "23.500s",
+                        "EndTime": "23.600s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "23.600s",
+                        "EndTime": "23.900s",
+                        "word": "things"
+                    },
+                    {
+                        "StartTime": "23.900s",
+                        "EndTime": "24s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "24s",
+                        "EndTime": "24.100s",
+                        "word": "we"
+                    },
+                    {
+                        "StartTime": "24.100s",
+                        "EndTime": "24.300s",
+                        "word": "came"
+                    },
+                    {
+                        "StartTime": "24.300s",
+                        "EndTime": "24.500s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "24.500s",
+                        "EndTime": "25.100s",
+                        "word": "understand"
+                    },
+                    {
+                        "StartTime": "25.100s",
+                        "EndTime": "25.300s",
+                        "word": "was"
+                    },
+                    {
+                        "StartTime": "25.300s",
+                        "EndTime": "25.600s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "25.600s",
+                        "EndTime": "26.200s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "26.200s",
+                        "EndTime": "26.900s",
+                        "word": "we"
+                    },
+                    {
+                        "StartTime": "26.900s",
+                        "EndTime": "27.200s",
+                        "word": "wanted"
+                    },
+                    {
+                        "StartTime": "27.200s",
+                        "EndTime": "27.300s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "27.300s",
+                        "EndTime": "27.400s",
+                        "word": "use"
+                    },
+                    {
+                        "StartTime": "27.400s",
+                        "EndTime": "28.200s",
+                        "word": "bigger"
+                    },
+                    {
+                        "StartTime": "28.200s",
+                        "EndTime": "28.700s",
+                        "word": "numbers"
+                    },
+                    {
+                        "StartTime": "28.700s",
+                        "EndTime": "29.100s",
+                        "word": "versus"
+                    },
+                    {
+                        "StartTime": "29.100s",
+                        "EndTime": "29.500s",
+                        "word": "being"
+                    },
+                    {
+                        "StartTime": "29.500s",
+                        "EndTime": "30.200s",
+                        "word": "super"
+                    },
+                    {
+                        "StartTime": "30.200s",
+                        "EndTime": "30.700s",
+                        "word": "specific."
+                    },
+                    {
+                        "StartTime": "30.700s",
+                        "EndTime": "31.400s",
+                        "word": "Right?"
+                    },
+                    {
+                        "StartTime": "31.400s",
+                        "EndTime": "31.700s",
+                        "word": "So"
+                    },
+                    {
+                        "StartTime": "31.700s",
+                        "EndTime": "32.100s",
+                        "word": "one"
+                    },
+                    {
+                        "StartTime": "32.100s",
+                        "EndTime": "32.200s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "32.200s",
+                        "EndTime": "32.300s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "32.300s",
+                        "EndTime": "32.500s",
+                        "word": "things"
+                    },
+                    {
+                        "StartTime": "32.500s",
+                        "EndTime": "32.600s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "32.600s",
+                        "EndTime": "32.700s",
+                        "word": "we"
+                    },
+                    {
+                        "StartTime": "32.700s",
+                        "EndTime": "32.900s",
+                        "word": "would"
+                    },
+                    {
+                        "StartTime": "32.900s",
+                        "EndTime": "33s",
+                        "word": "like"
+                    },
+                    {
+                        "StartTime": "33s",
+                        "EndTime": "33.200s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "33.200s",
+                        "EndTime": "33.400s",
+                        "word": "do"
+                    },
+                    {
+                        "StartTime": "33.400s",
+                        "EndTime": "33.900s",
+                        "word": "is"
+                    },
+                    {
+                        "StartTime": "33.900s",
+                        "EndTime": "36s",
+                        "word": "focus"
+                    },
+                    {
+                        "StartTime": "36s",
+                        "EndTime": "36.600s",
+                        "word": "on"
+                    },
+                    {
+                        "StartTime": "36.600s",
+                        "EndTime": "38.100s",
+                        "word": "making"
+                    },
+                    {
+                        "StartTime": "38.100s",
+                        "EndTime": "38.300s",
+                        "word": "sure"
+                    },
+                    {
+                        "StartTime": "38.300s",
+                        "EndTime": "38.600s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "38.600s",
+                        "EndTime": "38.800s",
+                        "word": "we"
+                    },
+                    {
+                        "StartTime": "38.800s",
+                        "EndTime": "39.100s",
+                        "word": "have"
+                    },
+                    {
+                        "StartTime": "39.100s",
+                        "EndTime": "39.300s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "39.300s",
+                        "EndTime": "39.700s",
+                        "word": "right"
+                    },
+                    {
+                        "StartTime": "39.700s",
+                        "EndTime": "41.200s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "41.200s",
+                        "EndTime": "41.600s",
+                        "word": "basic"
+                    },
+                    {
+                        "StartTime": "41.600s",
+                        "EndTime": "42s",
+                        "word": "question"
+                    },
+                    {
+                        "StartTime": "42s",
+                        "EndTime": "42.100s",
+                        "word": "would"
+                    },
+                    {
+                        "StartTime": "42.100s",
+                        "EndTime": "42.300s",
+                        "word": "probably"
+                    },
+                    {
+                        "StartTime": "42.300s",
+                        "EndTime": "42.600s",
+                        "word": "be"
+                    },
+                    {
+                        "StartTime": "42.600s",
+                        "EndTime": "44.300s",
+                        "word": "if"
+                    },
+                    {
+                        "StartTime": "44.300s",
+                        "EndTime": "44.500s",
+                        "word": "we're"
+                    },
+                    {
+                        "StartTime": "44.500s",
+                        "EndTime": "44.600s",
+                        "word": "building"
+                    },
+                    {
+                        "StartTime": "44.600s",
+                        "EndTime": "44.800s",
+                        "word": "a"
+                    },
+                    {
+                        "StartTime": "44.800s",
+                        "EndTime": "45.300s",
+                        "word": "classified"
+                    },
+                    {
+                        "StartTime": "45.300s",
+                        "EndTime": "45.900s",
+                        "word": "space."
+                    }
+                ]
+            }]
+        },
+        {
+            "Alternatives": [{
+                "Transcript": " How much of that needs to be classified construction so that would be x square feet that sort of thing and the cost will start at $300 a square foot and then that will be all inclusive of electrical mechanical and architecture of the general construction. And then we would ask a follow-up question. Do you need any unclassified construction? If so how much square footage and that's where he would be between 1 and 1:50 and now would be inclusive of electrical and mechanical architecture. So we don't have to dive down into the the needy deep weeds event. And then we would put a factor on every project the basically has a demo cost associated with it. So whatever they put so for example in this example, right we have 1755 square feet of construction that would need to be for security and a thousand square feet of unclassified the totals 2755.",
+                "Confidence": 0.969793856,
+                "Words": [{
+                        "StartTime": "48.800s",
+                        "EndTime": "49.300s",
+                        "word": "How"
+                    },
+                    {
+                        "StartTime": "49.300s",
+                        "EndTime": "49.500s",
+                        "word": "much"
+                    },
+                    {
+                        "StartTime": "49.500s",
+                        "EndTime": "49.700s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "49.700s",
+                        "EndTime": "49.800s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "49.800s",
+                        "EndTime": "50.100s",
+                        "word": "needs"
+                    },
+                    {
+                        "StartTime": "50.100s",
+                        "EndTime": "50.300s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "50.300s",
+                        "EndTime": "50.400s",
+                        "word": "be"
+                    },
+                    {
+                        "StartTime": "50.400s",
+                        "EndTime": "50.900s",
+                        "word": "classified"
+                    },
+                    {
+                        "StartTime": "50.900s",
+                        "EndTime": "51.800s",
+                        "word": "construction"
+                    },
+                    {
+                        "StartTime": "51.800s",
+                        "EndTime": "52.400s",
+                        "word": "so"
+                    },
+                    {
+                        "StartTime": "52.400s",
+                        "EndTime": "52.600s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "52.600s",
+                        "EndTime": "52.700s",
+                        "word": "would"
+                    },
+                    {
+                        "StartTime": "52.700s",
+                        "EndTime": "52.800s",
+                        "word": "be"
+                    },
+                    {
+                        "StartTime": "52.800s",
+                        "EndTime": "53.100s",
+                        "word": "x"
+                    },
+                    {
+                        "StartTime": "53.100s",
+                        "EndTime": "53.300s",
+                        "word": "square"
+                    },
+                    {
+                        "StartTime": "53.300s",
+                        "EndTime": "53.900s",
+                        "word": "feet"
+                    },
+                    {
+                        "StartTime": "53.900s",
+                        "EndTime": "54.200s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "54.200s",
+                        "EndTime": "54.500s",
+                        "word": "sort"
+                    },
+                    {
+                        "StartTime": "54.500s",
+                        "EndTime": "54.500s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "54.500s",
+                        "EndTime": "54.600s",
+                        "word": "thing"
+                    },
+                    {
+                        "StartTime": "54.600s",
+                        "EndTime": "55.500s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "55.500s",
+                        "EndTime": "55.600s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "55.600s",
+                        "EndTime": "56s",
+                        "word": "cost"
+                    },
+                    {
+                        "StartTime": "56s",
+                        "EndTime": "56.200s",
+                        "word": "will"
+                    },
+                    {
+                        "StartTime": "56.200s",
+                        "EndTime": "56.500s",
+                        "word": "start"
+                    },
+                    {
+                        "StartTime": "56.500s",
+                        "EndTime": "56.600s",
+                        "word": "at"
+                    },
+                    {
+                        "StartTime": "56.600s",
+                        "EndTime": "57.400s",
+                        "word": "$300"
+                    },
+                    {
+                        "StartTime": "57.400s",
+                        "EndTime": "57.500s",
+                        "word": "a"
+                    },
+                    {
+                        "StartTime": "57.500s",
+                        "EndTime": "57.600s",
+                        "word": "square"
+                    },
+                    {
+                        "StartTime": "57.600s",
+                        "EndTime": "58.100s",
+                        "word": "foot"
+                    },
+                    {
+                        "StartTime": "58.100s",
+                        "EndTime": "58.500s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "58.500s",
+                        "EndTime": "58.800s",
+                        "word": "then"
+                    },
+                    {
+                        "StartTime": "58.800s",
+                        "EndTime": "59.200s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "59.200s",
+                        "EndTime": "59.300s",
+                        "word": "will"
+                    },
+                    {
+                        "StartTime": "59.300s",
+                        "EndTime": "59.400s",
+                        "word": "be"
+                    },
+                    {
+                        "StartTime": "59.400s",
+                        "EndTime": "59.700s",
+                        "word": "all"
+                    },
+                    {
+                        "StartTime": "59.700s",
+                        "EndTime": "60s",
+                        "word": "inclusive"
+                    },
+                    {
+                        "StartTime": "60s",
+                        "EndTime": "60.400s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "60.400s",
+                        "EndTime": "61.100s",
+                        "word": "electrical"
+                    },
+                    {
+                        "StartTime": "61.100s",
+                        "EndTime": "61.700s",
+                        "word": "mechanical"
+                    },
+                    {
+                        "StartTime": "61.700s",
+                        "EndTime": "62.100s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "62.100s",
+                        "EndTime": "62.700s",
+                        "word": "architecture"
+                    },
+                    {
+                        "StartTime": "62.700s",
+                        "EndTime": "62.700s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "62.700s",
+                        "EndTime": "62.800s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "62.800s",
+                        "EndTime": "63.300s",
+                        "word": "general"
+                    },
+                    {
+                        "StartTime": "63.300s",
+                        "EndTime": "63.600s",
+                        "word": "construction."
+                    },
+                    {
+                        "StartTime": "63.600s",
+                        "EndTime": "64.900s",
+                        "word": "And"
+                    },
+                    {
+                        "StartTime": "64.900s",
+                        "EndTime": "65.100s",
+                        "word": "then"
+                    },
+                    {
+                        "StartTime": "65.100s",
+                        "EndTime": "65.200s",
+                        "word": "we"
+                    },
+                    {
+                        "StartTime": "65.200s",
+                        "EndTime": "65.400s",
+                        "word": "would"
+                    },
+                    {
+                        "StartTime": "65.400s",
+                        "EndTime": "65.600s",
+                        "word": "ask"
+                    },
+                    {
+                        "StartTime": "65.600s",
+                        "EndTime": "65.700s",
+                        "word": "a"
+                    },
+                    {
+                        "StartTime": "65.700s",
+                        "EndTime": "65.900s",
+                        "word": "follow-up"
+                    },
+                    {
+                        "StartTime": "65.900s",
+                        "EndTime": "66.200s",
+                        "word": "question."
+                    },
+                    {
+                        "StartTime": "66.200s",
+                        "EndTime": "66.900s",
+                        "word": "Do"
+                    },
+                    {
+                        "StartTime": "66.900s",
+                        "EndTime": "67s",
+                        "word": "you"
+                    },
+                    {
+                        "StartTime": "67s",
+                        "EndTime": "67.300s",
+                        "word": "need"
+                    },
+                    {
+                        "StartTime": "67.300s",
+                        "EndTime": "67.700s",
+                        "word": "any"
+                    },
+                    {
+                        "StartTime": "67.700s",
+                        "EndTime": "68.900s",
+                        "word": "unclassified"
+                    },
+                    {
+                        "StartTime": "68.900s",
+                        "EndTime": "70.300s",
+                        "word": "construction?"
+                    },
+                    {
+                        "StartTime": "70.300s",
+                        "EndTime": "70.800s",
+                        "word": "If"
+                    },
+                    {
+                        "StartTime": "70.800s",
+                        "EndTime": "71.100s",
+                        "word": "so"
+                    },
+                    {
+                        "StartTime": "71.100s",
+                        "EndTime": "71.600s",
+                        "word": "how"
+                    },
+                    {
+                        "StartTime": "71.600s",
+                        "EndTime": "71.700s",
+                        "word": "much"
+                    },
+                    {
+                        "StartTime": "71.700s",
+                        "EndTime": "72s",
+                        "word": "square"
+                    },
+                    {
+                        "StartTime": "72s",
+                        "EndTime": "72.400s",
+                        "word": "footage"
+                    },
+                    {
+                        "StartTime": "72.400s",
+                        "EndTime": "72.700s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "72.700s",
+                        "EndTime": "73.100s",
+                        "word": "that's"
+                    },
+                    {
+                        "StartTime": "73.100s",
+                        "EndTime": "73.300s",
+                        "word": "where"
+                    },
+                    {
+                        "StartTime": "73.300s",
+                        "EndTime": "73.500s",
+                        "word": "he"
+                    },
+                    {
+                        "StartTime": "73.500s",
+                        "EndTime": "73.700s",
+                        "word": "would"
+                    },
+                    {
+                        "StartTime": "73.700s",
+                        "EndTime": "73.700s",
+                        "word": "be"
+                    },
+                    {
+                        "StartTime": "73.700s",
+                        "EndTime": "74.100s",
+                        "word": "between"
+                    },
+                    {
+                        "StartTime": "74.100s",
+                        "EndTime": "74.500s",
+                        "word": "1"
+                    },
+                    {
+                        "StartTime": "74.500s",
+                        "EndTime": "74.600s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "74.600s",
+                        "EndTime": "75.300s",
+                        "word": "1:50"
+                    },
+                    {
+                        "StartTime": "75.300s",
+                        "EndTime": "78s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "78s",
+                        "EndTime": "78.100s",
+                        "word": "now"
+                    },
+                    {
+                        "StartTime": "78.100s",
+                        "EndTime": "78.300s",
+                        "word": "would"
+                    },
+                    {
+                        "StartTime": "78.300s",
+                        "EndTime": "78.400s",
+                        "word": "be"
+                    },
+                    {
+                        "StartTime": "78.400s",
+                        "EndTime": "78.900s",
+                        "word": "inclusive"
+                    },
+                    {
+                        "StartTime": "78.900s",
+                        "EndTime": "79.300s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "79.300s",
+                        "EndTime": "79.900s",
+                        "word": "electrical"
+                    },
+                    {
+                        "StartTime": "79.900s",
+                        "EndTime": "79.900s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "79.900s",
+                        "EndTime": "80.400s",
+                        "word": "mechanical"
+                    },
+                    {
+                        "StartTime": "80.400s",
+                        "EndTime": "81s",
+                        "word": "architecture."
+                    },
+                    {
+                        "StartTime": "81s",
+                        "EndTime": "81.200s",
+                        "word": "So"
+                    },
+                    {
+                        "StartTime": "81.200s",
+                        "EndTime": "81.300s",
+                        "word": "we"
+                    },
+                    {
+                        "StartTime": "81.300s",
+                        "EndTime": "81.400s",
+                        "word": "don't"
+                    },
+                    {
+                        "StartTime": "81.400s",
+                        "EndTime": "81.600s",
+                        "word": "have"
+                    },
+                    {
+                        "StartTime": "81.600s",
+                        "EndTime": "81.800s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "81.800s",
+                        "EndTime": "82.100s",
+                        "word": "dive"
+                    },
+                    {
+                        "StartTime": "82.100s",
+                        "EndTime": "82.200s",
+                        "word": "down"
+                    },
+                    {
+                        "StartTime": "82.200s",
+                        "EndTime": "82.500s",
+                        "word": "into"
+                    },
+                    {
+                        "StartTime": "82.500s",
+                        "EndTime": "82.700s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "82.700s",
+                        "EndTime": "83s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "83s",
+                        "EndTime": "83.300s",
+                        "word": "needy"
+                    },
+                    {
+                        "StartTime": "83.300s",
+                        "EndTime": "84s",
+                        "word": "deep"
+                    },
+                    {
+                        "StartTime": "84s",
+                        "EndTime": "84.400s",
+                        "word": "weeds"
+                    },
+                    {
+                        "StartTime": "84.400s",
+                        "EndTime": "85.200s",
+                        "word": "event."
+                    },
+                    {
+                        "StartTime": "85.200s",
+                        "EndTime": "86.400s",
+                        "word": "And"
+                    },
+                    {
+                        "StartTime": "86.400s",
+                        "EndTime": "86.600s",
+                        "word": "then"
+                    },
+                    {
+                        "StartTime": "86.600s",
+                        "EndTime": "87.700s",
+                        "word": "we"
+                    },
+                    {
+                        "StartTime": "87.700s",
+                        "EndTime": "87.800s",
+                        "word": "would"
+                    },
+                    {
+                        "StartTime": "87.800s",
+                        "EndTime": "88.100s",
+                        "word": "put"
+                    },
+                    {
+                        "StartTime": "88.100s",
+                        "EndTime": "88.100s",
+                        "word": "a"
+                    },
+                    {
+                        "StartTime": "88.100s",
+                        "EndTime": "88.700s",
+                        "word": "factor"
+                    },
+                    {
+                        "StartTime": "88.700s",
+                        "EndTime": "89.100s",
+                        "word": "on"
+                    },
+                    {
+                        "StartTime": "89.100s",
+                        "EndTime": "90.300s",
+                        "word": "every"
+                    },
+                    {
+                        "StartTime": "90.300s",
+                        "EndTime": "90.600s",
+                        "word": "project"
+                    },
+                    {
+                        "StartTime": "90.600s",
+                        "EndTime": "90.900s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "90.900s",
+                        "EndTime": "91.300s",
+                        "word": "basically"
+                    },
+                    {
+                        "StartTime": "91.300s",
+                        "EndTime": "91.600s",
+                        "word": "has"
+                    },
+                    {
+                        "StartTime": "91.600s",
+                        "EndTime": "91.700s",
+                        "word": "a"
+                    },
+                    {
+                        "StartTime": "91.700s",
+                        "EndTime": "92s",
+                        "word": "demo"
+                    },
+                    {
+                        "StartTime": "92s",
+                        "EndTime": "92.300s",
+                        "word": "cost"
+                    },
+                    {
+                        "StartTime": "92.300s",
+                        "EndTime": "92.800s",
+                        "word": "associated"
+                    },
+                    {
+                        "StartTime": "92.800s",
+                        "EndTime": "93.200s",
+                        "word": "with"
+                    },
+                    {
+                        "StartTime": "93.200s",
+                        "EndTime": "93.400s",
+                        "word": "it."
+                    },
+                    {
+                        "StartTime": "93.400s",
+                        "EndTime": "93.500s",
+                        "word": "So"
+                    },
+                    {
+                        "StartTime": "93.500s",
+                        "EndTime": "93.700s",
+                        "word": "whatever"
+                    },
+                    {
+                        "StartTime": "93.700s",
+                        "EndTime": "94.500s",
+                        "word": "they"
+                    },
+                    {
+                        "StartTime": "94.500s",
+                        "EndTime": "94.800s",
+                        "word": "put"
+                    },
+                    {
+                        "StartTime": "94.800s",
+                        "EndTime": "95.500s",
+                        "word": "so"
+                    },
+                    {
+                        "StartTime": "95.500s",
+                        "EndTime": "95.700s",
+                        "word": "for"
+                    },
+                    {
+                        "StartTime": "95.700s",
+                        "EndTime": "95.700s",
+                        "word": "example"
+                    },
+                    {
+                        "StartTime": "95.700s",
+                        "EndTime": "96.200s",
+                        "word": "in"
+                    },
+                    {
+                        "StartTime": "96.200s",
+                        "EndTime": "96.400s",
+                        "word": "this"
+                    },
+                    {
+                        "StartTime": "96.400s",
+                        "EndTime": "96.800s",
+                        "word": "example,"
+                    },
+                    {
+                        "StartTime": "96.800s",
+                        "EndTime": "97.400s",
+                        "word": "right"
+                    },
+                    {
+                        "StartTime": "97.400s",
+                        "EndTime": "98.200s",
+                        "word": "we"
+                    },
+                    {
+                        "StartTime": "98.200s",
+                        "EndTime": "98.700s",
+                        "word": "have"
+                    },
+                    {
+                        "StartTime": "98.700s",
+                        "EndTime": "100.200s",
+                        "word": "1755"
+                    },
+                    {
+                        "StartTime": "100.200s",
+                        "EndTime": "100.400s",
+                        "word": "square"
+                    },
+                    {
+                        "StartTime": "100.400s",
+                        "EndTime": "100.800s",
+                        "word": "feet"
+                    },
+                    {
+                        "StartTime": "100.800s",
+                        "EndTime": "101s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "101s",
+                        "EndTime": "102.300s",
+                        "word": "construction"
+                    },
+                    {
+                        "StartTime": "102.300s",
+                        "EndTime": "102.400s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "102.400s",
+                        "EndTime": "102.600s",
+                        "word": "would"
+                    },
+                    {
+                        "StartTime": "102.600s",
+                        "EndTime": "102.700s",
+                        "word": "need"
+                    },
+                    {
+                        "StartTime": "102.700s",
+                        "EndTime": "102.800s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "102.800s",
+                        "EndTime": "102.900s",
+                        "word": "be"
+                    },
+                    {
+                        "StartTime": "102.900s",
+                        "EndTime": "103.500s",
+                        "word": "for"
+                    },
+                    {
+                        "StartTime": "103.500s",
+                        "EndTime": "104.100s",
+                        "word": "security"
+                    },
+                    {
+                        "StartTime": "104.100s",
+                        "EndTime": "104.600s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "104.600s",
+                        "EndTime": "104.700s",
+                        "word": "a"
+                    },
+                    {
+                        "StartTime": "104.700s",
+                        "EndTime": "105.100s",
+                        "word": "thousand"
+                    },
+                    {
+                        "StartTime": "105.100s",
+                        "EndTime": "105.200s",
+                        "word": "square"
+                    },
+                    {
+                        "StartTime": "105.200s",
+                        "EndTime": "105.300s",
+                        "word": "feet"
+                    },
+                    {
+                        "StartTime": "105.300s",
+                        "EndTime": "105.600s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "105.600s",
+                        "EndTime": "106s",
+                        "word": "unclassified"
+                    },
+                    {
+                        "StartTime": "106s",
+                        "EndTime": "107s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "107s",
+                        "EndTime": "107.500s",
+                        "word": "totals"
+                    },
+                    {
+                        "StartTime": "107.500s",
+                        "EndTime": "108.700s",
+                        "word": "2755."
+                    }
+                ]
+            }]
+        },
+        {
+            "Alternatives": [{
+                "Transcript": " Therefore we would automatically say the demo cost is going to be 2755 square feet at five bucks of square feet right sister to calculate it for us. Then we would just need them to tell us within the spaces. We don't need to know exactly which side just for us. It doesn't matter how many conference rooms because we just need to calculate how much the conference room furniture is going to be and then if there's going to be any personal tell us the number of people that you need and at what levels right so it would basically be is this a manager is this a or a professional rake and then that just factors for the furniture cuz basically",
+                "Confidence": 0.9692299,
+                "Words": [{
+                        "StartTime": "108.700s",
+                        "EndTime": "109.500s",
+                        "word": "Therefore"
+                    },
+                    {
+                        "StartTime": "109.500s",
+                        "EndTime": "110.500s",
+                        "word": "we"
+                    },
+                    {
+                        "StartTime": "110.500s",
+                        "EndTime": "110.600s",
+                        "word": "would"
+                    },
+                    {
+                        "StartTime": "110.600s",
+                        "EndTime": "111.100s",
+                        "word": "automatically"
+                    },
+                    {
+                        "StartTime": "111.100s",
+                        "EndTime": "111.400s",
+                        "word": "say"
+                    },
+                    {
+                        "StartTime": "111.400s",
+                        "EndTime": "111.600s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "111.600s",
+                        "EndTime": "111.900s",
+                        "word": "demo"
+                    },
+                    {
+                        "StartTime": "111.900s",
+                        "EndTime": "112.200s",
+                        "word": "cost"
+                    },
+                    {
+                        "StartTime": "112.200s",
+                        "EndTime": "112.400s",
+                        "word": "is"
+                    },
+                    {
+                        "StartTime": "112.400s",
+                        "EndTime": "112.500s",
+                        "word": "going"
+                    },
+                    {
+                        "StartTime": "112.500s",
+                        "EndTime": "112.600s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "112.600s",
+                        "EndTime": "112.700s",
+                        "word": "be"
+                    },
+                    {
+                        "StartTime": "112.700s",
+                        "EndTime": "114.400s",
+                        "word": "2755"
+                    },
+                    {
+                        "StartTime": "114.400s",
+                        "EndTime": "114.800s",
+                        "word": "square"
+                    },
+                    {
+                        "StartTime": "114.800s",
+                        "EndTime": "115.200s",
+                        "word": "feet"
+                    },
+                    {
+                        "StartTime": "115.200s",
+                        "EndTime": "115.500s",
+                        "word": "at"
+                    },
+                    {
+                        "StartTime": "115.500s",
+                        "EndTime": "115.800s",
+                        "word": "five"
+                    },
+                    {
+                        "StartTime": "115.800s",
+                        "EndTime": "116.100s",
+                        "word": "bucks"
+                    },
+                    {
+                        "StartTime": "116.100s",
+                        "EndTime": "116.100s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "116.100s",
+                        "EndTime": "116.400s",
+                        "word": "square"
+                    },
+                    {
+                        "StartTime": "116.400s",
+                        "EndTime": "116.500s",
+                        "word": "feet"
+                    },
+                    {
+                        "StartTime": "116.500s",
+                        "EndTime": "116.900s",
+                        "word": "right"
+                    },
+                    {
+                        "StartTime": "116.900s",
+                        "EndTime": "117.200s",
+                        "word": "sister"
+                    },
+                    {
+                        "StartTime": "117.200s",
+                        "EndTime": "117.400s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "117.400s",
+                        "EndTime": "117.900s",
+                        "word": "calculate"
+                    },
+                    {
+                        "StartTime": "117.900s",
+                        "EndTime": "118.100s",
+                        "word": "it"
+                    },
+                    {
+                        "StartTime": "118.100s",
+                        "EndTime": "118.200s",
+                        "word": "for"
+                    },
+                    {
+                        "StartTime": "118.200s",
+                        "EndTime": "118.600s",
+                        "word": "us."
+                    },
+                    {
+                        "StartTime": "118.600s",
+                        "EndTime": "119.400s",
+                        "word": "Then"
+                    },
+                    {
+                        "StartTime": "119.400s",
+                        "EndTime": "119.500s",
+                        "word": "we"
+                    },
+                    {
+                        "StartTime": "119.500s",
+                        "EndTime": "119.700s",
+                        "word": "would"
+                    },
+                    {
+                        "StartTime": "119.700s",
+                        "EndTime": "119.700s",
+                        "word": "just"
+                    },
+                    {
+                        "StartTime": "119.700s",
+                        "EndTime": "119.900s",
+                        "word": "need"
+                    },
+                    {
+                        "StartTime": "119.900s",
+                        "EndTime": "120.300s",
+                        "word": "them"
+                    },
+                    {
+                        "StartTime": "120.300s",
+                        "EndTime": "120.300s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "120.300s",
+                        "EndTime": "120.500s",
+                        "word": "tell"
+                    },
+                    {
+                        "StartTime": "120.500s",
+                        "EndTime": "120.900s",
+                        "word": "us"
+                    },
+                    {
+                        "StartTime": "120.900s",
+                        "EndTime": "122.700s",
+                        "word": "within"
+                    },
+                    {
+                        "StartTime": "122.700s",
+                        "EndTime": "123.600s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "123.600s",
+                        "EndTime": "123.900s",
+                        "word": "spaces."
+                    },
+                    {
+                        "StartTime": "123.900s",
+                        "EndTime": "124.400s",
+                        "word": "We"
+                    },
+                    {
+                        "StartTime": "124.400s",
+                        "EndTime": "124.500s",
+                        "word": "don't"
+                    },
+                    {
+                        "StartTime": "124.500s",
+                        "EndTime": "124.600s",
+                        "word": "need"
+                    },
+                    {
+                        "StartTime": "124.600s",
+                        "EndTime": "124.700s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "124.700s",
+                        "EndTime": "124.900s",
+                        "word": "know"
+                    },
+                    {
+                        "StartTime": "124.900s",
+                        "EndTime": "125.500s",
+                        "word": "exactly"
+                    },
+                    {
+                        "StartTime": "125.500s",
+                        "EndTime": "125.700s",
+                        "word": "which"
+                    },
+                    {
+                        "StartTime": "125.700s",
+                        "EndTime": "126.200s",
+                        "word": "side"
+                    },
+                    {
+                        "StartTime": "126.200s",
+                        "EndTime": "127.500s",
+                        "word": "just"
+                    },
+                    {
+                        "StartTime": "127.500s",
+                        "EndTime": "127.700s",
+                        "word": "for"
+                    },
+                    {
+                        "StartTime": "127.700s",
+                        "EndTime": "127.800s",
+                        "word": "us."
+                    },
+                    {
+                        "StartTime": "127.800s",
+                        "EndTime": "127.900s",
+                        "word": "It"
+                    },
+                    {
+                        "StartTime": "127.900s",
+                        "EndTime": "128.100s",
+                        "word": "doesn't"
+                    },
+                    {
+                        "StartTime": "128.100s",
+                        "EndTime": "128.500s",
+                        "word": "matter"
+                    },
+                    {
+                        "StartTime": "128.500s",
+                        "EndTime": "128.700s",
+                        "word": "how"
+                    },
+                    {
+                        "StartTime": "128.700s",
+                        "EndTime": "128.800s",
+                        "word": "many"
+                    },
+                    {
+                        "StartTime": "128.800s",
+                        "EndTime": "129.500s",
+                        "word": "conference"
+                    },
+                    {
+                        "StartTime": "129.500s",
+                        "EndTime": "130s",
+                        "word": "rooms"
+                    },
+                    {
+                        "StartTime": "130s",
+                        "EndTime": "130.800s",
+                        "word": "because"
+                    },
+                    {
+                        "StartTime": "130.800s",
+                        "EndTime": "131s",
+                        "word": "we"
+                    },
+                    {
+                        "StartTime": "131s",
+                        "EndTime": "131.100s",
+                        "word": "just"
+                    },
+                    {
+                        "StartTime": "131.100s",
+                        "EndTime": "131.200s",
+                        "word": "need"
+                    },
+                    {
+                        "StartTime": "131.200s",
+                        "EndTime": "131.400s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "131.400s",
+                        "EndTime": "131.700s",
+                        "word": "calculate"
+                    },
+                    {
+                        "StartTime": "131.700s",
+                        "EndTime": "132.100s",
+                        "word": "how"
+                    },
+                    {
+                        "StartTime": "132.100s",
+                        "EndTime": "132.300s",
+                        "word": "much"
+                    },
+                    {
+                        "StartTime": "132.300s",
+                        "EndTime": "132.500s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "132.500s",
+                        "EndTime": "132.900s",
+                        "word": "conference"
+                    },
+                    {
+                        "StartTime": "132.900s",
+                        "EndTime": "133.200s",
+                        "word": "room"
+                    },
+                    {
+                        "StartTime": "133.200s",
+                        "EndTime": "133.500s",
+                        "word": "furniture"
+                    },
+                    {
+                        "StartTime": "133.500s",
+                        "EndTime": "133.600s",
+                        "word": "is"
+                    },
+                    {
+                        "StartTime": "133.600s",
+                        "EndTime": "133.700s",
+                        "word": "going"
+                    },
+                    {
+                        "StartTime": "133.700s",
+                        "EndTime": "133.800s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "133.800s",
+                        "EndTime": "134s",
+                        "word": "be"
+                    },
+                    {
+                        "StartTime": "134s",
+                        "EndTime": "134.400s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "134.400s",
+                        "EndTime": "134.500s",
+                        "word": "then"
+                    },
+                    {
+                        "StartTime": "134.500s",
+                        "EndTime": "134.700s",
+                        "word": "if"
+                    },
+                    {
+                        "StartTime": "134.700s",
+                        "EndTime": "134.900s",
+                        "word": "there's"
+                    },
+                    {
+                        "StartTime": "134.900s",
+                        "EndTime": "135s",
+                        "word": "going"
+                    },
+                    {
+                        "StartTime": "135s",
+                        "EndTime": "135.100s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "135.100s",
+                        "EndTime": "135.200s",
+                        "word": "be"
+                    },
+                    {
+                        "StartTime": "135.200s",
+                        "EndTime": "135.500s",
+                        "word": "any"
+                    },
+                    {
+                        "StartTime": "135.500s",
+                        "EndTime": "136.100s",
+                        "word": "personal"
+                    },
+                    {
+                        "StartTime": "136.100s",
+                        "EndTime": "136.300s",
+                        "word": "tell"
+                    },
+                    {
+                        "StartTime": "136.300s",
+                        "EndTime": "136.600s",
+                        "word": "us"
+                    },
+                    {
+                        "StartTime": "136.600s",
+                        "EndTime": "137.600s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "137.600s",
+                        "EndTime": "138.400s",
+                        "word": "number"
+                    },
+                    {
+                        "StartTime": "138.400s",
+                        "EndTime": "138.600s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "138.600s",
+                        "EndTime": "138.800s",
+                        "word": "people"
+                    },
+                    {
+                        "StartTime": "138.800s",
+                        "EndTime": "139s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "139s",
+                        "EndTime": "139.300s",
+                        "word": "you"
+                    },
+                    {
+                        "StartTime": "139.300s",
+                        "EndTime": "139.600s",
+                        "word": "need"
+                    },
+                    {
+                        "StartTime": "139.600s",
+                        "EndTime": "139.800s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "139.800s",
+                        "EndTime": "139.900s",
+                        "word": "at"
+                    },
+                    {
+                        "StartTime": "139.900s",
+                        "EndTime": "140.200s",
+                        "word": "what"
+                    },
+                    {
+                        "StartTime": "140.200s",
+                        "EndTime": "140.700s",
+                        "word": "levels"
+                    },
+                    {
+                        "StartTime": "140.700s",
+                        "EndTime": "141.200s",
+                        "word": "right"
+                    },
+                    {
+                        "StartTime": "141.200s",
+                        "EndTime": "141.400s",
+                        "word": "so"
+                    },
+                    {
+                        "StartTime": "141.400s",
+                        "EndTime": "141.500s",
+                        "word": "it"
+                    },
+                    {
+                        "StartTime": "141.500s",
+                        "EndTime": "141.600s",
+                        "word": "would"
+                    },
+                    {
+                        "StartTime": "141.600s",
+                        "EndTime": "141.900s",
+                        "word": "basically"
+                    },
+                    {
+                        "StartTime": "141.900s",
+                        "EndTime": "142.300s",
+                        "word": "be"
+                    },
+                    {
+                        "StartTime": "142.300s",
+                        "EndTime": "142.900s",
+                        "word": "is"
+                    },
+                    {
+                        "StartTime": "142.900s",
+                        "EndTime": "143.100s",
+                        "word": "this"
+                    },
+                    {
+                        "StartTime": "143.100s",
+                        "EndTime": "143.200s",
+                        "word": "a"
+                    },
+                    {
+                        "StartTime": "143.200s",
+                        "EndTime": "143.700s",
+                        "word": "manager"
+                    },
+                    {
+                        "StartTime": "143.700s",
+                        "EndTime": "144.100s",
+                        "word": "is"
+                    },
+                    {
+                        "StartTime": "144.100s",
+                        "EndTime": "144.200s",
+                        "word": "this"
+                    },
+                    {
+                        "StartTime": "144.200s",
+                        "EndTime": "144.500s",
+                        "word": "a"
+                    },
+                    {
+                        "StartTime": "144.500s",
+                        "EndTime": "145s",
+                        "word": "or"
+                    },
+                    {
+                        "StartTime": "145s",
+                        "EndTime": "145.100s",
+                        "word": "a"
+                    },
+                    {
+                        "StartTime": "145.100s",
+                        "EndTime": "145.700s",
+                        "word": "professional"
+                    },
+                    {
+                        "StartTime": "145.700s",
+                        "EndTime": "146s",
+                        "word": "rake"
+                    },
+                    {
+                        "StartTime": "146s",
+                        "EndTime": "146.200s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "146.200s",
+                        "EndTime": "146.400s",
+                        "word": "then"
+                    },
+                    {
+                        "StartTime": "146.400s",
+                        "EndTime": "146.600s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "146.600s",
+                        "EndTime": "146.800s",
+                        "word": "just"
+                    },
+                    {
+                        "StartTime": "146.800s",
+                        "EndTime": "147.300s",
+                        "word": "factors"
+                    },
+                    {
+                        "StartTime": "147.300s",
+                        "EndTime": "147.600s",
+                        "word": "for"
+                    },
+                    {
+                        "StartTime": "147.600s",
+                        "EndTime": "147.700s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "147.700s",
+                        "EndTime": "148.200s",
+                        "word": "furniture"
+                    },
+                    {
+                        "StartTime": "148.200s",
+                        "EndTime": "148.600s",
+                        "word": "cuz"
+                    },
+                    {
+                        "StartTime": "148.600s",
+                        "EndTime": "149s",
+                        "word": "basically"
+                    }
+                ]
+            }]
+        },
+        {
+            "Alternatives": [{
+                "Transcript": " the",
+                "Confidence": 0.971062541,
+                "Words": [{
+                    "StartTime": "150s",
+                    "EndTime": "152.400s",
+                    "word": "the"
+                }]
+            }]
+        },
+        {
+            "Alternatives": [{
+                "Transcript": " let's see here. So and then we're just starting to factor in escorts related for anything that has to do with security. And so that's basically",
+                "Confidence": 0.9701936,
+                "Words": [{
+                        "StartTime": "154.700s",
+                        "EndTime": "155.500s",
+                        "word": "let's"
+                    },
+                    {
+                        "StartTime": "155.500s",
+                        "EndTime": "155.700s",
+                        "word": "see"
+                    },
+                    {
+                        "StartTime": "155.700s",
+                        "EndTime": "155.900s",
+                        "word": "here."
+                    },
+                    {
+                        "StartTime": "155.900s",
+                        "EndTime": "156.300s",
+                        "word": "So"
+                    },
+                    {
+                        "StartTime": "156.300s",
+                        "EndTime": "156.900s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "156.900s",
+                        "EndTime": "157.400s",
+                        "word": "then"
+                    },
+                    {
+                        "StartTime": "157.400s",
+                        "EndTime": "158.400s",
+                        "word": "we're"
+                    },
+                    {
+                        "StartTime": "158.400s",
+                        "EndTime": "158.500s",
+                        "word": "just"
+                    },
+                    {
+                        "StartTime": "158.500s",
+                        "EndTime": "158.800s",
+                        "word": "starting"
+                    },
+                    {
+                        "StartTime": "158.800s",
+                        "EndTime": "159.100s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "159.100s",
+                        "EndTime": "159.500s",
+                        "word": "factor"
+                    },
+                    {
+                        "StartTime": "159.500s",
+                        "EndTime": "159.900s",
+                        "word": "in"
+                    },
+                    {
+                        "StartTime": "159.900s",
+                        "EndTime": "161s",
+                        "word": "escorts"
+                    },
+                    {
+                        "StartTime": "161s",
+                        "EndTime": "161.400s",
+                        "word": "related"
+                    },
+                    {
+                        "StartTime": "161.400s",
+                        "EndTime": "161.600s",
+                        "word": "for"
+                    },
+                    {
+                        "StartTime": "161.600s",
+                        "EndTime": "161.900s",
+                        "word": "anything"
+                    },
+                    {
+                        "StartTime": "161.900s",
+                        "EndTime": "162.100s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "162.100s",
+                        "EndTime": "162.200s",
+                        "word": "has"
+                    },
+                    {
+                        "StartTime": "162.200s",
+                        "EndTime": "162.300s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "162.300s",
+                        "EndTime": "162.400s",
+                        "word": "do"
+                    },
+                    {
+                        "StartTime": "162.400s",
+                        "EndTime": "162.600s",
+                        "word": "with"
+                    },
+                    {
+                        "StartTime": "162.600s",
+                        "EndTime": "163.200s",
+                        "word": "security."
+                    },
+                    {
+                        "StartTime": "163.200s",
+                        "EndTime": "164.100s",
+                        "word": "And"
+                    },
+                    {
+                        "StartTime": "164.100s",
+                        "EndTime": "164.500s",
+                        "word": "so"
+                    },
+                    {
+                        "StartTime": "164.500s",
+                        "EndTime": "165.100s",
+                        "word": "that's"
+                    },
+                    {
+                        "StartTime": "165.100s",
+                        "EndTime": "165.400s",
+                        "word": "basically"
+                    }
+                ]
+            }]
+        },
+        {
+            "Alternatives": [{
+                "Transcript": " However, many hours * say 20 bucks an hour for a contractor and sixty bucks an hour for NGC type people that just allows us to keep track of that money and then down below the sort of fixed costs would be. Okay. Annie or saying is going to be 10% of the project. We would I would want that to be able to be altered so they gave me a day to be 5% or whatever. I want the ability to change the percentage vote. You know, basically the default would be 10% lower portion here right taxes contingency. That's the thing the oversight and then the breakdown between the capital and expense basically and then this is how much is per square feet?",
+                "Confidence": 0.9734155,
+                "Words": [{
+                        "StartTime": "169.200s",
+                        "EndTime": "169.700s",
+                        "word": "However,"
+                    },
+                    {
+                        "StartTime": "169.700s",
+                        "EndTime": "169.900s",
+                        "word": "many"
+                    },
+                    {
+                        "StartTime": "169.900s",
+                        "EndTime": "170.200s",
+                        "word": "hours"
+                    },
+                    {
+                        "StartTime": "170.200s",
+                        "EndTime": "171.300s",
+                        "word": "*"
+                    },
+                    {
+                        "StartTime": "171.300s",
+                        "EndTime": "171.900s",
+                        "word": "say"
+                    },
+                    {
+                        "StartTime": "171.900s",
+                        "EndTime": "172.300s",
+                        "word": "20"
+                    },
+                    {
+                        "StartTime": "172.300s",
+                        "EndTime": "172.600s",
+                        "word": "bucks"
+                    },
+                    {
+                        "StartTime": "172.600s",
+                        "EndTime": "172.700s",
+                        "word": "an"
+                    },
+                    {
+                        "StartTime": "172.700s",
+                        "EndTime": "172.900s",
+                        "word": "hour"
+                    },
+                    {
+                        "StartTime": "172.900s",
+                        "EndTime": "173.100s",
+                        "word": "for"
+                    },
+                    {
+                        "StartTime": "173.100s",
+                        "EndTime": "173.200s",
+                        "word": "a"
+                    },
+                    {
+                        "StartTime": "173.200s",
+                        "EndTime": "174s",
+                        "word": "contractor"
+                    },
+                    {
+                        "StartTime": "174s",
+                        "EndTime": "174.200s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "174.200s",
+                        "EndTime": "174.600s",
+                        "word": "sixty"
+                    },
+                    {
+                        "StartTime": "174.600s",
+                        "EndTime": "174.700s",
+                        "word": "bucks"
+                    },
+                    {
+                        "StartTime": "174.700s",
+                        "EndTime": "175s",
+                        "word": "an"
+                    },
+                    {
+                        "StartTime": "175s",
+                        "EndTime": "175.200s",
+                        "word": "hour"
+                    },
+                    {
+                        "StartTime": "175.200s",
+                        "EndTime": "175.600s",
+                        "word": "for"
+                    },
+                    {
+                        "StartTime": "175.600s",
+                        "EndTime": "176.100s",
+                        "word": "NGC"
+                    },
+                    {
+                        "StartTime": "176.100s",
+                        "EndTime": "176.500s",
+                        "word": "type"
+                    },
+                    {
+                        "StartTime": "176.500s",
+                        "EndTime": "176.900s",
+                        "word": "people"
+                    },
+                    {
+                        "StartTime": "176.900s",
+                        "EndTime": "178s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "178s",
+                        "EndTime": "178.200s",
+                        "word": "just"
+                    },
+                    {
+                        "StartTime": "178.200s",
+                        "EndTime": "178.600s",
+                        "word": "allows"
+                    },
+                    {
+                        "StartTime": "178.600s",
+                        "EndTime": "178.700s",
+                        "word": "us"
+                    },
+                    {
+                        "StartTime": "178.700s",
+                        "EndTime": "178.800s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "178.800s",
+                        "EndTime": "179s",
+                        "word": "keep"
+                    },
+                    {
+                        "StartTime": "179s",
+                        "EndTime": "179.300s",
+                        "word": "track"
+                    },
+                    {
+                        "StartTime": "179.300s",
+                        "EndTime": "179.300s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "179.300s",
+                        "EndTime": "179.400s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "179.400s",
+                        "EndTime": "179.800s",
+                        "word": "money"
+                    },
+                    {
+                        "StartTime": "179.800s",
+                        "EndTime": "180.100s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "180.100s",
+                        "EndTime": "180.300s",
+                        "word": "then"
+                    },
+                    {
+                        "StartTime": "180.300s",
+                        "EndTime": "181.100s",
+                        "word": "down"
+                    },
+                    {
+                        "StartTime": "181.100s",
+                        "EndTime": "181.300s",
+                        "word": "below"
+                    },
+                    {
+                        "StartTime": "181.300s",
+                        "EndTime": "181.800s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "181.800s",
+                        "EndTime": "182.100s",
+                        "word": "sort"
+                    },
+                    {
+                        "StartTime": "182.100s",
+                        "EndTime": "182.100s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "182.100s",
+                        "EndTime": "182.500s",
+                        "word": "fixed"
+                    },
+                    {
+                        "StartTime": "182.500s",
+                        "EndTime": "183s",
+                        "word": "costs"
+                    },
+                    {
+                        "StartTime": "183s",
+                        "EndTime": "183.100s",
+                        "word": "would"
+                    },
+                    {
+                        "StartTime": "183.100s",
+                        "EndTime": "183.300s",
+                        "word": "be."
+                    },
+                    {
+                        "StartTime": "183.300s",
+                        "EndTime": "184.500s",
+                        "word": "Okay."
+                    },
+                    {
+                        "StartTime": "184.500s",
+                        "EndTime": "185.500s",
+                        "word": "Annie"
+                    },
+                    {
+                        "StartTime": "185.500s",
+                        "EndTime": "186.100s",
+                        "word": "or"
+                    },
+                    {
+                        "StartTime": "186.100s",
+                        "EndTime": "186.500s",
+                        "word": "saying"
+                    },
+                    {
+                        "StartTime": "186.500s",
+                        "EndTime": "186.600s",
+                        "word": "is"
+                    },
+                    {
+                        "StartTime": "186.600s",
+                        "EndTime": "186.700s",
+                        "word": "going"
+                    },
+                    {
+                        "StartTime": "186.700s",
+                        "EndTime": "186.800s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "186.800s",
+                        "EndTime": "186.900s",
+                        "word": "be"
+                    },
+                    {
+                        "StartTime": "186.900s",
+                        "EndTime": "187.500s",
+                        "word": "10%"
+                    },
+                    {
+                        "StartTime": "187.500s",
+                        "EndTime": "187.600s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "187.600s",
+                        "EndTime": "187.600s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "187.600s",
+                        "EndTime": "187.900s",
+                        "word": "project."
+                    },
+                    {
+                        "StartTime": "187.900s",
+                        "EndTime": "189.400s",
+                        "word": "We"
+                    },
+                    {
+                        "StartTime": "189.400s",
+                        "EndTime": "189.600s",
+                        "word": "would"
+                    },
+                    {
+                        "StartTime": "189.600s",
+                        "EndTime": "189.800s",
+                        "word": "I"
+                    },
+                    {
+                        "StartTime": "189.800s",
+                        "EndTime": "189.900s",
+                        "word": "would"
+                    },
+                    {
+                        "StartTime": "189.900s",
+                        "EndTime": "190.300s",
+                        "word": "want"
+                    },
+                    {
+                        "StartTime": "190.300s",
+                        "EndTime": "190.400s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "190.400s",
+                        "EndTime": "190.600s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "190.600s",
+                        "EndTime": "190.700s",
+                        "word": "be"
+                    },
+                    {
+                        "StartTime": "190.700s",
+                        "EndTime": "190.900s",
+                        "word": "able"
+                    },
+                    {
+                        "StartTime": "190.900s",
+                        "EndTime": "191.100s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "191.100s",
+                        "EndTime": "191.200s",
+                        "word": "be"
+                    },
+                    {
+                        "StartTime": "191.200s",
+                        "EndTime": "191.500s",
+                        "word": "altered"
+                    },
+                    {
+                        "StartTime": "191.500s",
+                        "EndTime": "191.900s",
+                        "word": "so"
+                    },
+                    {
+                        "StartTime": "191.900s",
+                        "EndTime": "192.100s",
+                        "word": "they"
+                    },
+                    {
+                        "StartTime": "192.100s",
+                        "EndTime": "192.300s",
+                        "word": "gave"
+                    },
+                    {
+                        "StartTime": "192.300s",
+                        "EndTime": "192.300s",
+                        "word": "me"
+                    },
+                    {
+                        "StartTime": "192.300s",
+                        "EndTime": "192.400s",
+                        "word": "a"
+                    },
+                    {
+                        "StartTime": "192.400s",
+                        "EndTime": "192.700s",
+                        "word": "day"
+                    },
+                    {
+                        "StartTime": "192.700s",
+                        "EndTime": "192.800s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "192.800s",
+                        "EndTime": "193s",
+                        "word": "be"
+                    },
+                    {
+                        "StartTime": "193s",
+                        "EndTime": "193.700s",
+                        "word": "5%"
+                    },
+                    {
+                        "StartTime": "193.700s",
+                        "EndTime": "193.900s",
+                        "word": "or"
+                    },
+                    {
+                        "StartTime": "193.900s",
+                        "EndTime": "193.900s",
+                        "word": "whatever."
+                    },
+                    {
+                        "StartTime": "193.900s",
+                        "EndTime": "194.200s",
+                        "word": "I"
+                    },
+                    {
+                        "StartTime": "194.200s",
+                        "EndTime": "194.500s",
+                        "word": "want"
+                    },
+                    {
+                        "StartTime": "194.500s",
+                        "EndTime": "194.700s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "194.700s",
+                        "EndTime": "194.900s",
+                        "word": "ability"
+                    },
+                    {
+                        "StartTime": "194.900s",
+                        "EndTime": "195.100s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "195.100s",
+                        "EndTime": "195.200s",
+                        "word": "change"
+                    },
+                    {
+                        "StartTime": "195.200s",
+                        "EndTime": "195.400s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "195.400s",
+                        "EndTime": "196s",
+                        "word": "percentage"
+                    },
+                    {
+                        "StartTime": "196s",
+                        "EndTime": "196.100s",
+                        "word": "vote."
+                    },
+                    {
+                        "StartTime": "196.100s",
+                        "EndTime": "196.700s",
+                        "word": "You"
+                    },
+                    {
+                        "StartTime": "196.700s",
+                        "EndTime": "196.800s",
+                        "word": "know,"
+                    },
+                    {
+                        "StartTime": "196.800s",
+                        "EndTime": "197.400s",
+                        "word": "basically"
+                    },
+                    {
+                        "StartTime": "197.400s",
+                        "EndTime": "197.500s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "197.500s",
+                        "EndTime": "197.900s",
+                        "word": "default"
+                    },
+                    {
+                        "StartTime": "197.900s",
+                        "EndTime": "198.100s",
+                        "word": "would"
+                    },
+                    {
+                        "StartTime": "198.100s",
+                        "EndTime": "198.200s",
+                        "word": "be"
+                    },
+                    {
+                        "StartTime": "198.200s",
+                        "EndTime": "198.900s",
+                        "word": "10%"
+                    },
+                    {
+                        "StartTime": "198.900s",
+                        "EndTime": "201.800s",
+                        "word": "lower"
+                    },
+                    {
+                        "StartTime": "201.800s",
+                        "EndTime": "202.300s",
+                        "word": "portion"
+                    },
+                    {
+                        "StartTime": "202.300s",
+                        "EndTime": "202.700s",
+                        "word": "here"
+                    },
+                    {
+                        "StartTime": "202.700s",
+                        "EndTime": "203.200s",
+                        "word": "right"
+                    },
+                    {
+                        "StartTime": "203.200s",
+                        "EndTime": "203.900s",
+                        "word": "taxes"
+                    },
+                    {
+                        "StartTime": "203.900s",
+                        "EndTime": "204.700s",
+                        "word": "contingency."
+                    },
+                    {
+                        "StartTime": "204.700s",
+                        "EndTime": "205s",
+                        "word": "That's"
+                    },
+                    {
+                        "StartTime": "205s",
+                        "EndTime": "205.200s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "205.200s",
+                        "EndTime": "205.500s",
+                        "word": "thing"
+                    },
+                    {
+                        "StartTime": "205.500s",
+                        "EndTime": "205.800s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "205.800s",
+                        "EndTime": "206.600s",
+                        "word": "oversight"
+                    },
+                    {
+                        "StartTime": "206.600s",
+                        "EndTime": "207.400s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "207.400s",
+                        "EndTime": "207.600s",
+                        "word": "then"
+                    },
+                    {
+                        "StartTime": "207.600s",
+                        "EndTime": "207.700s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "207.700s",
+                        "EndTime": "208.200s",
+                        "word": "breakdown"
+                    },
+                    {
+                        "StartTime": "208.200s",
+                        "EndTime": "208.500s",
+                        "word": "between"
+                    },
+                    {
+                        "StartTime": "208.500s",
+                        "EndTime": "208.800s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "208.800s",
+                        "EndTime": "209.300s",
+                        "word": "capital"
+                    },
+                    {
+                        "StartTime": "209.300s",
+                        "EndTime": "209.800s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "209.800s",
+                        "EndTime": "210.400s",
+                        "word": "expense"
+                    },
+                    {
+                        "StartTime": "210.400s",
+                        "EndTime": "211s",
+                        "word": "basically"
+                    },
+                    {
+                        "StartTime": "211s",
+                        "EndTime": "212.100s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "212.100s",
+                        "EndTime": "212.200s",
+                        "word": "then"
+                    },
+                    {
+                        "StartTime": "212.200s",
+                        "EndTime": "215.500s",
+                        "word": "this"
+                    },
+                    {
+                        "StartTime": "215.500s",
+                        "EndTime": "215.600s",
+                        "word": "is"
+                    },
+                    {
+                        "StartTime": "215.600s",
+                        "EndTime": "215.700s",
+                        "word": "how"
+                    },
+                    {
+                        "StartTime": "215.700s",
+                        "EndTime": "216s",
+                        "word": "much"
+                    },
+                    {
+                        "StartTime": "216s",
+                        "EndTime": "216.800s",
+                        "word": "is"
+                    },
+                    {
+                        "StartTime": "216.800s",
+                        "EndTime": "218.600s",
+                        "word": "per"
+                    },
+                    {
+                        "StartTime": "218.600s",
+                        "EndTime": "219s",
+                        "word": "square"
+                    },
+                    {
+                        "StartTime": "219s",
+                        "EndTime": "219.100s",
+                        "word": "feet?"
+                    }
+                ]
+            }]
+        },
+        {
+            "Alternatives": [{
+                "Transcript": " Writer gives us is calculation down here. So we have a rough idea. So 3:24 ish, right that kind of thing. It's not a deal-breaker. We don't this is just a reference number really the amount is a word for trying to figure out the breakdown between the capital expense in the idea of the end-user would be program managers. That's why I needed to be simpler. So this is for the construction end of things. There is we have another that is",
+                "Confidence": 0.958189368,
+                "Words": [{
+                        "StartTime": "222.100s",
+                        "EndTime": "222.800s",
+                        "word": "Writer"
+                    },
+                    {
+                        "StartTime": "222.800s",
+                        "EndTime": "223.100s",
+                        "word": "gives"
+                    },
+                    {
+                        "StartTime": "223.100s",
+                        "EndTime": "223.300s",
+                        "word": "us"
+                    },
+                    {
+                        "StartTime": "223.300s",
+                        "EndTime": "223.400s",
+                        "word": "is"
+                    },
+                    {
+                        "StartTime": "223.400s",
+                        "EndTime": "223.900s",
+                        "word": "calculation"
+                    },
+                    {
+                        "StartTime": "223.900s",
+                        "EndTime": "224.300s",
+                        "word": "down"
+                    },
+                    {
+                        "StartTime": "224.300s",
+                        "EndTime": "224.500s",
+                        "word": "here."
+                    },
+                    {
+                        "StartTime": "224.500s",
+                        "EndTime": "224.700s",
+                        "word": "So"
+                    },
+                    {
+                        "StartTime": "224.700s",
+                        "EndTime": "224.700s",
+                        "word": "we"
+                    },
+                    {
+                        "StartTime": "224.700s",
+                        "EndTime": "224.800s",
+                        "word": "have"
+                    },
+                    {
+                        "StartTime": "224.800s",
+                        "EndTime": "224.900s",
+                        "word": "a"
+                    },
+                    {
+                        "StartTime": "224.900s",
+                        "EndTime": "225.200s",
+                        "word": "rough"
+                    },
+                    {
+                        "StartTime": "225.200s",
+                        "EndTime": "225.400s",
+                        "word": "idea."
+                    },
+                    {
+                        "StartTime": "225.400s",
+                        "EndTime": "225.600s",
+                        "word": "So"
+                    },
+                    {
+                        "StartTime": "225.600s",
+                        "EndTime": "226.600s",
+                        "word": "3:24"
+                    },
+                    {
+                        "StartTime": "226.600s",
+                        "EndTime": "226.800s",
+                        "word": "ish,"
+                    },
+                    {
+                        "StartTime": "226.800s",
+                        "EndTime": "227.200s",
+                        "word": "right"
+                    },
+                    {
+                        "StartTime": "227.200s",
+                        "EndTime": "227.600s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "227.600s",
+                        "EndTime": "227.700s",
+                        "word": "kind"
+                    },
+                    {
+                        "StartTime": "227.700s",
+                        "EndTime": "227.800s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "227.800s",
+                        "EndTime": "228.100s",
+                        "word": "thing."
+                    },
+                    {
+                        "StartTime": "228.100s",
+                        "EndTime": "229.700s",
+                        "word": "It's"
+                    },
+                    {
+                        "StartTime": "229.700s",
+                        "EndTime": "229.800s",
+                        "word": "not"
+                    },
+                    {
+                        "StartTime": "229.800s",
+                        "EndTime": "229.900s",
+                        "word": "a"
+                    },
+                    {
+                        "StartTime": "229.900s",
+                        "EndTime": "230.100s",
+                        "word": "deal-breaker."
+                    },
+                    {
+                        "StartTime": "230.100s",
+                        "EndTime": "230.600s",
+                        "word": "We"
+                    },
+                    {
+                        "StartTime": "230.600s",
+                        "EndTime": "230.800s",
+                        "word": "don't"
+                    },
+                    {
+                        "StartTime": "230.800s",
+                        "EndTime": "230.900s",
+                        "word": "this"
+                    },
+                    {
+                        "StartTime": "230.900s",
+                        "EndTime": "231.100s",
+                        "word": "is"
+                    },
+                    {
+                        "StartTime": "231.100s",
+                        "EndTime": "231.300s",
+                        "word": "just"
+                    },
+                    {
+                        "StartTime": "231.300s",
+                        "EndTime": "231.400s",
+                        "word": "a"
+                    },
+                    {
+                        "StartTime": "231.400s",
+                        "EndTime": "231.600s",
+                        "word": "reference"
+                    },
+                    {
+                        "StartTime": "231.600s",
+                        "EndTime": "232.100s",
+                        "word": "number"
+                    },
+                    {
+                        "StartTime": "232.100s",
+                        "EndTime": "233s",
+                        "word": "really"
+                    },
+                    {
+                        "StartTime": "233s",
+                        "EndTime": "233.100s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "233.100s",
+                        "EndTime": "233.700s",
+                        "word": "amount"
+                    },
+                    {
+                        "StartTime": "233.700s",
+                        "EndTime": "234s",
+                        "word": "is"
+                    },
+                    {
+                        "StartTime": "234s",
+                        "EndTime": "234.200s",
+                        "word": "a"
+                    },
+                    {
+                        "StartTime": "234.200s",
+                        "EndTime": "234.500s",
+                        "word": "word"
+                    },
+                    {
+                        "StartTime": "234.500s",
+                        "EndTime": "234.700s",
+                        "word": "for"
+                    },
+                    {
+                        "StartTime": "234.700s",
+                        "EndTime": "234.800s",
+                        "word": "trying"
+                    },
+                    {
+                        "StartTime": "234.800s",
+                        "EndTime": "235s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "235s",
+                        "EndTime": "235.200s",
+                        "word": "figure"
+                    },
+                    {
+                        "StartTime": "235.200s",
+                        "EndTime": "235.400s",
+                        "word": "out"
+                    },
+                    {
+                        "StartTime": "235.400s",
+                        "EndTime": "236.200s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "236.200s",
+                        "EndTime": "236.600s",
+                        "word": "breakdown"
+                    },
+                    {
+                        "StartTime": "236.600s",
+                        "EndTime": "236.800s",
+                        "word": "between"
+                    },
+                    {
+                        "StartTime": "236.800s",
+                        "EndTime": "237s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "237s",
+                        "EndTime": "237.400s",
+                        "word": "capital"
+                    },
+                    {
+                        "StartTime": "237.400s",
+                        "EndTime": "238s",
+                        "word": "expense"
+                    },
+                    {
+                        "StartTime": "238s",
+                        "EndTime": "238.100s",
+                        "word": "in"
+                    },
+                    {
+                        "StartTime": "238.100s",
+                        "EndTime": "238.200s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "238.200s",
+                        "EndTime": "238.600s",
+                        "word": "idea"
+                    },
+                    {
+                        "StartTime": "238.600s",
+                        "EndTime": "238.700s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "238.700s",
+                        "EndTime": "238.800s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "238.800s",
+                        "EndTime": "239.600s",
+                        "word": "end-user"
+                    },
+                    {
+                        "StartTime": "239.600s",
+                        "EndTime": "240s",
+                        "word": "would"
+                    },
+                    {
+                        "StartTime": "240s",
+                        "EndTime": "240.200s",
+                        "word": "be"
+                    },
+                    {
+                        "StartTime": "240.200s",
+                        "EndTime": "241.800s",
+                        "word": "program"
+                    },
+                    {
+                        "StartTime": "241.800s",
+                        "EndTime": "242.400s",
+                        "word": "managers."
+                    },
+                    {
+                        "StartTime": "242.400s",
+                        "EndTime": "242.500s",
+                        "word": "That's"
+                    },
+                    {
+                        "StartTime": "242.500s",
+                        "EndTime": "242.700s",
+                        "word": "why"
+                    },
+                    {
+                        "StartTime": "242.700s",
+                        "EndTime": "242.800s",
+                        "word": "I"
+                    },
+                    {
+                        "StartTime": "242.800s",
+                        "EndTime": "243s",
+                        "word": "needed"
+                    },
+                    {
+                        "StartTime": "243s",
+                        "EndTime": "243.100s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "243.100s",
+                        "EndTime": "243.300s",
+                        "word": "be"
+                    },
+                    {
+                        "StartTime": "243.300s",
+                        "EndTime": "243.800s",
+                        "word": "simpler."
+                    },
+                    {
+                        "StartTime": "243.800s",
+                        "EndTime": "245.500s",
+                        "word": "So"
+                    },
+                    {
+                        "StartTime": "245.500s",
+                        "EndTime": "245.700s",
+                        "word": "this"
+                    },
+                    {
+                        "StartTime": "245.700s",
+                        "EndTime": "245.900s",
+                        "word": "is"
+                    },
+                    {
+                        "StartTime": "245.900s",
+                        "EndTime": "246.100s",
+                        "word": "for"
+                    },
+                    {
+                        "StartTime": "246.100s",
+                        "EndTime": "246.200s",
+                        "word": "the"
+                    },
+                    {
+                        "StartTime": "246.200s",
+                        "EndTime": "246.700s",
+                        "word": "construction"
+                    },
+                    {
+                        "StartTime": "246.700s",
+                        "EndTime": "247.100s",
+                        "word": "end"
+                    },
+                    {
+                        "StartTime": "247.100s",
+                        "EndTime": "247.200s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "247.200s",
+                        "EndTime": "247.400s",
+                        "word": "things."
+                    },
+                    {
+                        "StartTime": "247.400s",
+                        "EndTime": "248.100s",
+                        "word": "There"
+                    },
+                    {
+                        "StartTime": "248.100s",
+                        "EndTime": "248.300s",
+                        "word": "is"
+                    },
+                    {
+                        "StartTime": "248.300s",
+                        "EndTime": "248.800s",
+                        "word": "we"
+                    },
+                    {
+                        "StartTime": "248.800s",
+                        "EndTime": "249.300s",
+                        "word": "have"
+                    },
+                    {
+                        "StartTime": "249.300s",
+                        "EndTime": "249.900s",
+                        "word": "another"
+                    },
+                    {
+                        "StartTime": "249.900s",
+                        "EndTime": "253s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "253s",
+                        "EndTime": "253.100s",
+                        "word": "is"
+                    }
+                ]
+            }]
+        },
+        {
+            "Alternatives": [{
+                "Transcript": " Basically, not a recurring costs tell us how many computers you need. And then we have a cost for all of those and I can do that to you separate. I can send that to you separate just to keep this meeting short. Maybe that's something that we review tomorrow basically and it basically has how much we're spending per month and then you just basically tell us what type of computer you need and then we have to put in like the reoccurring cost for the alarm so they know up front how much they're paying for that.",
+                "Confidence": 0.955008864,
+                "Words": [{
+                        "StartTime": "255.700s",
+                        "EndTime": "257.100s",
+                        "word": "Basically,"
+                    },
+                    {
+                        "StartTime": "257.100s",
+                        "EndTime": "257.600s",
+                        "word": "not"
+                    },
+                    {
+                        "StartTime": "257.600s",
+                        "EndTime": "257.900s",
+                        "word": "a"
+                    },
+                    {
+                        "StartTime": "257.900s",
+                        "EndTime": "258.600s",
+                        "word": "recurring"
+                    },
+                    {
+                        "StartTime": "258.600s",
+                        "EndTime": "258.800s",
+                        "word": "costs"
+                    },
+                    {
+                        "StartTime": "258.800s",
+                        "EndTime": "260s",
+                        "word": "tell"
+                    },
+                    {
+                        "StartTime": "260s",
+                        "EndTime": "260.100s",
+                        "word": "us"
+                    },
+                    {
+                        "StartTime": "260.100s",
+                        "EndTime": "260.300s",
+                        "word": "how"
+                    },
+                    {
+                        "StartTime": "260.300s",
+                        "EndTime": "260.400s",
+                        "word": "many"
+                    },
+                    {
+                        "StartTime": "260.400s",
+                        "EndTime": "261.100s",
+                        "word": "computers"
+                    },
+                    {
+                        "StartTime": "261.100s",
+                        "EndTime": "261.200s",
+                        "word": "you"
+                    },
+                    {
+                        "StartTime": "261.200s",
+                        "EndTime": "261.600s",
+                        "word": "need."
+                    },
+                    {
+                        "StartTime": "261.600s",
+                        "EndTime": "261.800s",
+                        "word": "And"
+                    },
+                    {
+                        "StartTime": "261.800s",
+                        "EndTime": "261.800s",
+                        "word": "then"
+                    },
+                    {
+                        "StartTime": "261.800s",
+                        "EndTime": "262.100s",
+                        "word": "we"
+                    },
+                    {
+                        "StartTime": "262.100s",
+                        "EndTime": "262.300s",
+                        "word": "have"
+                    },
+                    {
+                        "StartTime": "262.300s",
+                        "EndTime": "262.300s",
+                        "word": "a"
+                    },
+                    {
+                        "StartTime": "262.300s",
+                        "EndTime": "262.800s",
+                        "word": "cost"
+                    },
+                    {
+                        "StartTime": "262.800s",
+                        "EndTime": "264.300s",
+                        "word": "for"
+                    },
+                    {
+                        "StartTime": "264.300s",
+                        "EndTime": "264.500s",
+                        "word": "all"
+                    },
+                    {
+                        "StartTime": "264.500s",
+                        "EndTime": "264.600s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "264.600s",
+                        "EndTime": "264.900s",
+                        "word": "those"
+                    },
+                    {
+                        "StartTime": "264.900s",
+                        "EndTime": "265.900s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "265.900s",
+                        "EndTime": "266s",
+                        "word": "I"
+                    },
+                    {
+                        "StartTime": "266s",
+                        "EndTime": "266s",
+                        "word": "can"
+                    },
+                    {
+                        "StartTime": "266s",
+                        "EndTime": "266.200s",
+                        "word": "do"
+                    },
+                    {
+                        "StartTime": "266.200s",
+                        "EndTime": "266.400s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "266.400s",
+                        "EndTime": "266.600s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "266.600s",
+                        "EndTime": "266.700s",
+                        "word": "you"
+                    },
+                    {
+                        "StartTime": "266.700s",
+                        "EndTime": "267.300s",
+                        "word": "separate."
+                    },
+                    {
+                        "StartTime": "267.300s",
+                        "EndTime": "267.700s",
+                        "word": "I"
+                    },
+                    {
+                        "StartTime": "267.700s",
+                        "EndTime": "267.900s",
+                        "word": "can"
+                    },
+                    {
+                        "StartTime": "267.900s",
+                        "EndTime": "268.100s",
+                        "word": "send"
+                    },
+                    {
+                        "StartTime": "268.100s",
+                        "EndTime": "268.200s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "268.200s",
+                        "EndTime": "268.300s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "268.300s",
+                        "EndTime": "268.400s",
+                        "word": "you"
+                    },
+                    {
+                        "StartTime": "268.400s",
+                        "EndTime": "269s",
+                        "word": "separate"
+                    },
+                    {
+                        "StartTime": "269s",
+                        "EndTime": "271.100s",
+                        "word": "just"
+                    },
+                    {
+                        "StartTime": "271.100s",
+                        "EndTime": "271.200s",
+                        "word": "to"
+                    },
+                    {
+                        "StartTime": "271.200s",
+                        "EndTime": "271.400s",
+                        "word": "keep"
+                    },
+                    {
+                        "StartTime": "271.400s",
+                        "EndTime": "271.600s",
+                        "word": "this"
+                    },
+                    {
+                        "StartTime": "271.600s",
+                        "EndTime": "272s",
+                        "word": "meeting"
+                    },
+                    {
+                        "StartTime": "272s",
+                        "EndTime": "272.300s",
+                        "word": "short."
+                    },
+                    {
+                        "StartTime": "272.300s",
+                        "EndTime": "272.500s",
+                        "word": "Maybe"
+                    },
+                    {
+                        "StartTime": "272.500s",
+                        "EndTime": "272.700s",
+                        "word": "that's"
+                    },
+                    {
+                        "StartTime": "272.700s",
+                        "EndTime": "272.900s",
+                        "word": "something"
+                    },
+                    {
+                        "StartTime": "272.900s",
+                        "EndTime": "273.100s",
+                        "word": "that"
+                    },
+                    {
+                        "StartTime": "273.100s",
+                        "EndTime": "273.200s",
+                        "word": "we"
+                    },
+                    {
+                        "StartTime": "273.200s",
+                        "EndTime": "273.700s",
+                        "word": "review"
+                    },
+                    {
+                        "StartTime": "273.700s",
+                        "EndTime": "274s",
+                        "word": "tomorrow"
+                    },
+                    {
+                        "StartTime": "274s",
+                        "EndTime": "274.700s",
+                        "word": "basically"
+                    },
+                    {
+                        "StartTime": "274.700s",
+                        "EndTime": "275.400s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "275.400s",
+                        "EndTime": "275.600s",
+                        "word": "it"
+                    },
+                    {
+                        "StartTime": "275.600s",
+                        "EndTime": "275.800s",
+                        "word": "basically"
+                    },
+                    {
+                        "StartTime": "275.800s",
+                        "EndTime": "276.200s",
+                        "word": "has"
+                    },
+                    {
+                        "StartTime": "276.200s",
+                        "EndTime": "276.500s",
+                        "word": "how"
+                    },
+                    {
+                        "StartTime": "276.500s",
+                        "EndTime": "276.700s",
+                        "word": "much"
+                    },
+                    {
+                        "StartTime": "276.700s",
+                        "EndTime": "277.300s",
+                        "word": "we're"
+                    },
+                    {
+                        "StartTime": "277.300s",
+                        "EndTime": "277.400s",
+                        "word": "spending"
+                    },
+                    {
+                        "StartTime": "277.400s",
+                        "EndTime": "277.900s",
+                        "word": "per"
+                    },
+                    {
+                        "StartTime": "277.900s",
+                        "EndTime": "278.300s",
+                        "word": "month"
+                    },
+                    {
+                        "StartTime": "278.300s",
+                        "EndTime": "278.400s",
+                        "word": "and"
+                    },
+                    {
+                        "StartTime": "278.400s",
+                        "EndTime": "278.600s",
+                        "word": "then"
+                    },
+                    {
+                        "StartTime": "278.600s",
+                        "EndTime": "278.700s",
+                        "word": "you"
+                    },
+                    {
+                        "StartTime": "278.700s",
+                        "EndTime": "278.700s",
+                        "word": "just"
+                    },
+                    {
+                        "StartTime": "278.700s",
+                        "EndTime": "279.100s",
+                        "word": "basically"
+                    },
+                    {
+                        "StartTime": "279.100s",
+                        "EndTime": "279.500s",
+                        "word": "tell"
+                    },
+                    {
+                        "StartTime": "279.500s",
+                        "EndTime": "279.600s",
+                        "word": "us"
+                    },
+                    {
+                        "StartTime": "279.600s",
+                        "EndTime": "279.800s",
+                        "word": "what"
+                    },
+                    {
+                        "StartTime": "279.800s",
+                        "EndTime": "280.400s",
+                        "word": "type"
+                    },
+                    {
+                        "StartTime": "280.400s",
+                        "EndTime": "280.500s",
+                        "word": "of"
+                    },
+                    {
+                        "StartTime": "280.500s",
+                        "EndTime": "280.900s",
+                        "word": "computer"
+                    },
+                    {
+                        "StartTime": "280.900s",
+                        "EndTime": "281s",
+                        "word": "you"
+                    },
+                    {
+                        "StartTime": "281s",
+                        "EndTime": "281.200s",
+                        "word": "need"
+                    }
+                ]
+            }]
+        }
+    ]
+}

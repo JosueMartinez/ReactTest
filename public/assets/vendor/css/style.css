@@ -1,0 +1,51 @@
+ .transcript-body p{
+    /* padding-right: 50px;*/ 
+    text-align: justify;
+} 
+
+.alternative-timestamp{
+    width: 30rem;
+    text-align: center;
+} 
+
+.muted{
+    opacity: 0.2;
+}
+
+.navbar-side {
+    height: 100%;
+    width: 25%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 0;
+    list-style: none;
+    border-left: 2px solid #ccc;
+    background-color: #f7f7f9;
+    overflow-y: scroll;
+    z-index: 1000;
+    -webkit-transform: translateX(100%);
+    -ms-transform: translateX(100%);
+    transform: translateX(100%);
+    -webkit-transition: 300ms ease;
+    transition: 300ms ease;
+}
+
+  .reveal {
+    -webkit-transform: translateX(0%);
+    -ms-transform: translateX(0%);
+    transform: translateX(0%);
+    -webkit-transition: 300ms ease;
+    transition: 300ms ease;
+    right: 80px;
+  }
+
+  .resized{
+      width: 65%;
+  }
+
+  .original{
+      width: 90%;
+  }
+
+  
